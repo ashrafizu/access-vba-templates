@@ -36,7 +36,7 @@ Private Sub btnEnter_Click()
   Loop
   QueriedUser.Close
 End Sub
-
+'*******************************************************************************************************************
 Private Sub txtPassword_LostFocus()
     btnEnter_Click
 End Sub
